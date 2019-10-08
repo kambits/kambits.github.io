@@ -29,10 +29,10 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   mail: 'mailto:kambits.dev@gmail.com'
   github: 'https://github.com/kambits'
   docker: 'https://hub.docker.com/u/kambits'
-  juejin: 'https://juejin.im/user/5d975cb8e51d4577e86d0d89'
-  segmentfault: 'https://segmentfault.com/u/kambits'
+  juejin: 'https://juejin.im/user/5d975cb8e51d4577e86d0d89/posts'
+  segmentfault: 'https://segmentfault.com/u/kambits/articles'
   csdn: 'https://blog.csdn.net/sinat_38431275'
-  zhihu: 'https://www.zhihu.com/people/kambits/'
+  zhihu: 'https://www.zhihu.com/people/kambits/posts'
   OSCHINA: 'https://my.oschina.net/kambits'
   # toutiao: ''
   cnblogs: 'https://www.cnblogs.com/kambits/'
@@ -69,7 +69,7 @@ pygmentsTheme: 'default'
 # 友情链接
 friends:
   jekyll: 'https://www.jekyll.com.cn/'
-  google: 'https://www.google.com'
+  
   
 
 
@@ -102,9 +102,31 @@ google-ID: 'UA-149588658-1'
 color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
 
 applications:
-  vscode:
+  VScode:
     link: "https://www.google.com"
-    description: "Visual Studio Code（简称VS Code）是一个由微软开发，同时支持Windows 、 Linux和macOS等操作系统且开放源代码的代码编辑器[4],它支持测试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户个性化配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，同时还在编辑器中内置了扩展程序管理的功能。"
-  bear:
-    link: "https://www.google.com"
-    description: "bear"
+    description: "VScode 包含很多插件，常用插件sftp, remote-SSH, project manager."
+  Typora:
+    link: "https://www.typora.io/"
+    description: "Typora 将「写字」和「预览」合并在一起，很容易在写Markdown的时候看到格式"
+  Sourcetree:
+    link: "https://www.sourcetreeapp.com/"
+    description: "Sourcetree开电脑历史记录，我还是习惯命令行使用git."
+  Iterm2:
+    link: "https://www.iterm2.com"
+    description: "自定义的terminal."
+  Docker:
+    link: "https://www.docker.com/"
+    description: "容器."
+  Navicat for MySql:
+    link: "https://www.navicat.com/en/products/navicat-for-mysql"
+    description: "MySql GUI, 很容易使用."
+  Postman:
+    link: "https://www.getpostman.com"
+    description: "简单而强大的API调试工具."
+  IthoughtsX:
+    link: "https://www.toketaware.com/ithoughts-osx"
+    description: "强大的思维导图软件."
+  TeamViewer:
+    link: "https://www.teamviewer.cn/cn/"
+    description: "免费而好用的远程桌面软件."
+  
