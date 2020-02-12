@@ -37,7 +37,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   toutiao: 'https://www.toutiao.com/c/user/3249784695825112/#mid=1646529547541507'
   cnblogs: 'https://www.cnblogs.com/kambits/'
   jianshu: 'https://www.jianshu.com/u/f5097af74bc8'
-  # weixin: '' # 你的微信二维码存放的地址
+  weixin: 'https://image.kambit.cn/WechatIMG3.jpeg' # 你的微信二维码存放的地址
   # qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   # Codepen: ''
   # weibo: ''
