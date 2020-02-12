@@ -11,7 +11,7 @@ tags: remote
 
 Jason Fried 是位于芝加哥的[37signals](http://37signals.com/)公司的联合创始人兼总裁，该公司开发基于Web的生产力工具，用他们的话来说，“比竞争对手做得少 -- 故意地”。 37signals的简单而强大的协作工具包括Basecamp，Highrise，Backpack，Campfire，Ta-da List和Writeboard。 37signals还开发并开源了Ruby on Rails编程框架。他同时也是《 Getting Real》，《 REWORK》，《 Remote 》和《 It Doesn’t Have to Be Crazy at Work 》等书的联合作者。
 
-[Twitter](https://twitter.com/jasonfried?ref_src=twsrc^google|twcamp^serp|twgr^author)
+[Twitter](https://twitter.com/jasonfried)
 
 [TED](https://www.ted.com/speakers/jason_fried)
 
@@ -23,7 +23,7 @@ David Heinemeier Hansson 是丹麦程序员，赛车手，并且是流行的Ruby
 
 [Wiki](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
 
-[Twitter](https://twitter.com/dhh?ref_src=twsrc^google|twcamp^serp|twgr^author)
+[Twitter](https://twitter.com/dhh)
 
 [Github](https://github.com/dhh)
 
