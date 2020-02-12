@@ -7,7 +7,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212142657.png)
+![](https://image.kambit.cn/20200212142657.png)
 
 
 ## 为什么工作不会在工作中发生
@@ -48,7 +48,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212142732.png)
+![](https://image.kambit.cn/20200212142732.png)
 
 
 ## 停止通勤生活
@@ -79,7 +79,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212142938.png)
+![](https://image.kambit.cn/20200212142938.png)
 
 
 ## 这是技术，stupid
@@ -106,7 +106,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143013.png)
+![](https://image.kambit.cn/20200212143013.png)
 
 
 ## 逃离早9晚5
@@ -141,7 +141,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143026.png)
+![](https://image.kambit.cn/20200212143026.png)
 
 
 
@@ -169,7 +169,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143043.png)
+![](https://image.kambit.cn/20200212143043.png)
 
 
 ## 新的奢侈品
@@ -212,7 +212,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143100.png)
+![](https://image.kambit.cn/20200212143100.png)
 
 
 ## 人才不受城市约束
@@ -247,7 +247,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143116.png)
+![](https://image.kambit.cn/20200212143116.png)
 
 
 ## 不是钱的问题
@@ -270,7 +270,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143141.png)
+![](https://image.kambit.cn/20200212143141.png)
 
 
 ## 但是省钱总是很好的
@@ -305,7 +305,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143154.png)
+![](https://image.kambit.cn/20200212143154.png)
 
 
 # 并非全部或一无所有
@@ -328,7 +328,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143209.png)
+![](https://image.kambit.cn/20200212143209.png)
 
 
 ## 仍然需要权衡
@@ -355,7 +355,7 @@ tags: remote
 
 
 
-<div align=center>![](https://image.kambit.cn/20200212143223.png)
+![](https://image.kambit.cn/20200212143223.png)
 
 
 ## 你可能已经在做
